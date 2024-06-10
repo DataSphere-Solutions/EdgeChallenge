@@ -41,4 +41,4 @@ Para realização das competições vamos precisar de carrinhos elétricos. Port
 - O protótipo possui 2 motores e uma bateria para alimentá-los, além de 3 botões. O primeiro ao pressionado gira os motores para a esquerda, o do meio para os motores e o da direita os gira para a direita.
 - Futuramente, pretendemos adicionar um controle via Bluetooth para os alunos controlarem o carrinho.
 - 
-<iframe src="https://giphy.com/embed/78QQvKgRnSJwz60xb0" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/78QQvKgRnSJwz60xb0">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/78QQvKgRnSJwz60xb0" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/78QQvKgRnSJwz60xb0">via GIPHY</a></p>
