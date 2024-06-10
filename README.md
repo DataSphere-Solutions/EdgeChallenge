@@ -44,3 +44,11 @@ Para realização das competições vamos precisar de carrinhos elétricos. Port
 
 ## 🛠️ Link para o Projeto Desenvolvido no Tinkercad
 - https://www.tinkercad.com/things/cMkN4QmE9Jf-copy-of-matriz-l293d-arduino-rotacao/editel?sharecode=K2ms_u634UgAHRU3HsnI3YgyF_ap7iMdj_KgEuqoKY0
+
+## 📄 Vista Esquemática
+![image](https://github.com/DataSphere-Solutions/EdgeChallenge/assets/152393807/7bb5b29b-6f5a-4bed-84e6-53083e1cbc14)
+
+## 📝 Lista de Materiais
+- x1 Placa Arduino Uno;
+- x1 Breadboard;
+
