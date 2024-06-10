@@ -36,3 +36,5 @@ A Data Sphere Solutions é uma empresa fictícia representando a nossa equipe, f
 - Tudo isso irá introduzir os alunos ao meio da Fórmula E, trazendo uma maior visibilidade a modalidade.
 
 ## 💡 Agregando Edge Computing à Solução Pensada
+Para realização das competições vamos precisar de carrinhos elétricos. Portanto, desenvolvemos um protótipo no simulador online um protótipo de carrinho elétrico.
+![image](https://github.com/DataSphere-Solutions/EdgeChallenge/assets/152393807/cfddd927-3c9b-458b-9306-d46e5f3949f8)
