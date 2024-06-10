@@ -16,7 +16,7 @@ void setup()
   // Inicialização do Serial
   Serial.begin(9600);
   Serial.println("Controle do motor:");
-  Serial.println("Aperte os botões para controlar os motores");
+  Serial.println("Aperte os botoes para controlar os motores");
   
   // Configuração dos pinos como saída
   pinMode(PinoVelocidade, OUTPUT);
