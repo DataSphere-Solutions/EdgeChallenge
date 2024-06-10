@@ -35,4 +35,4 @@ A Data Sphere Solutions é uma empresa fictícia representando a nossa equipe, f
 - E por último, planejamos agendar passeios escolares para pistas de corrida, e para marcas que competem na Fórmula E.
 - Tudo isso irá introduzir os alunos ao meio da Fórmula E, trazendo uma maior visibilidade a modalidade.
 
-💡 Agregando Edge Computing à Solução Pensada
+## 💡 Agregando Edge Computing à Solução Pensada
