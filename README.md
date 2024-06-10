@@ -40,5 +40,5 @@ Para realização das competições vamos precisar de carrinhos elétricos. Port
 ![image](https://github.com/DataSphere-Solutions/EdgeChallenge/assets/152393807/cfddd927-3c9b-458b-9306-d46e5f3949f8)
 - O protótipo possui 2 motores e uma bateria para alimentá-los, além de 3 botões. O primeiro ao pressionado gira os motores para a esquerda, o do meio para os motores e o da direita os gira para a direita.
 - Futuramente, pretendemos adicionar um controle via Bluetooth para os alunos controlarem o carrinho.
-- 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/78QQvKgRnSJwz60xb0" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/78QQvKgRnSJwz60xb0">via GIPHY</a></p>
+![Design sem nome](https://github.com/DataSphere-Solutions/EdgeChallenge/assets/152393807/66c5a84c-e64b-404a-b5c3-272f71c0cdd4)
+
