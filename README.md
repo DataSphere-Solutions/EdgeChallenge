@@ -42,3 +42,5 @@ Para realização das competições vamos precisar de carrinhos elétricos. Port
 - Futuramente, pretendemos adicionar um controle via Bluetooth para os alunos controlarem o carrinho.
 ![Design sem nome](https://github.com/DataSphere-Solutions/EdgeChallenge/assets/152393807/66c5a84c-e64b-404a-b5c3-272f71c0cdd4)
 
+## 🛠️ Link para o Projeto Desenvolvido no Tinkercad
+- https://www.tinkercad.com/things/cMkN4QmE9Jf-copy-of-matriz-l293d-arduino-rotacao/editel?sharecode=K2ms_u634UgAHRU3HsnI3YgyF_ap7iMdj_KgEuqoKY0
