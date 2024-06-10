@@ -149,3 +149,13 @@ void loop()
 
 ```
 
+## ✅ Créditos
+Utilizamos diversas ferramentas e serviços para tornar a realização desse projeto possível, sendo elas:
+- ChatGPT: https://chat.openai.com/
+- Wokwi: https://wokwi.com/
+- Tinkercad: https://www.tinkercad.com/
+- Chareditor: https://chareditor.com/
+- Wiki de Bibliotecas do Arduino: https://www.arduino.cc/reference/en/libraries/
+- Microsoft Teams: https://teams.microsoft.com/
+- Github: https://github.com/
+- WhatsApp: https://web.whatsapp.com/
