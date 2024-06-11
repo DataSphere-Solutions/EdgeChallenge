@@ -8,7 +8,7 @@
 ![Data Sphere1000x1000](https://github.com/ianmonteirom/CP2-Edge/assets/152393807/0fe80a9b-6290-417d-8367-2abe3824d0b0)
 Logo da nossa equipe
 ## 🔮 O que é a Data Sphere?
-A Data Sphere Solutions é uma empresa fictícia representando a nossa equipe, formada pelos alunos: 
+A Data Sphere Solutions é uma empresa fictícia que representa nossa equipe, composta pelos seguintes membros:
 -  <a href="https://www.linkedin.com/in/artur-alves-tenca-b1ba862b6/">Artur Alves</a> - RM 555171 
 - <a href="https://www.linkedin.com/in/giuliana-lucas-85b4532b6/">Giuliana Lucas</a> - RM 557597
 - <a href="https://www.linkedin.com/in/ian-monteiro-moreira-a4543a2b7/">Ian Monteiro</a> - RM 558652 
@@ -16,11 +16,10 @@ A Data Sphere Solutions é uma empresa fictícia representando a nossa equipe, f
 - <a href="https://www.linkedin.com/in/matheus-estev%C3%A3o-5248b9238/">Matheus Alcântara</a> - RM 558193
 
 ## 👥 Quem é o nosso cliente?
-- Nosso cliente é a Tech Mahindra, uma empresa indiana multinacinal de serviços de tecnologia da informação (TI) e consultoria, com sede em Pune, na Índia.
-- Fundada em 1986, faz parte do Grupo Mahindra, um dos principais conglomerados empresariais da Índia.
+Nosso cliente é a Tech Mahindra, uma empresa indiana multinacional de serviços de tecnologia da informação (TI) e consultoria, com sede em Pune, Índia. Fundada em 1986, faz parte do Grupo Mahindra, um dos principais conglomerados empresariais da Índia.
 
 ## 🤔 O Problema que nos foi passado
-- O Problema que nos foi passado pela Tech Mahindra é como podemos alcançar mais pessoas com a Fórmula E, uma modalidade de corrida de carros elétricos, que não é muito conhecida.
+A Tech Mahindra nos desafiou a aumentar a visibilidade da Fórmula E, uma modalidade de corrida de carros elétricos que não é muito conhecida.
 
 ## ✅ A nossa Solução
 - Após realizarmos algumas pesquisas de campo com as pessoas, descobrimos que as pessoas mais velhas até conhecem e gostam, mas não possuem tempo para assistir. Já os mais jovens simplesmente não connhecem a Fórmula E.
